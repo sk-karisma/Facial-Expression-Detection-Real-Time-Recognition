@@ -42,6 +42,16 @@ Facial-Expression-Detection-Real-Time-Recognition/
 
 ---
 
+### 📄 File Description
+
+- **`webcam_test.py`** – Runs real-time facial expression detection using webcam  
+- **`fer.h5`** – Pretrained CNN model for emotion classification  
+- **`haarcascade_frontalface_default.xml`** – Haar Cascade model for face detection  
+- **`.ipynb` notebook** – Model training, experimentation, and evaluation  
+- **`.json` file** – Supporting metadata or configuration  
+
+---
+
 ## 🧪 Dataset Used
 
 The CNN model is typically trained on the **FER-2013 dataset**
