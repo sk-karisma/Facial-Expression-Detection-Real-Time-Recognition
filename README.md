@@ -5,7 +5,7 @@ It detects human faces from a live webcam feed and classifies facial expressions
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The system performs the following tasks:
 
@@ -19,7 +19,7 @@ This project is intended for **local execution** and real-time experimentation.
 
 ---
 
-## ✨ Features
+## Features
 
 - Real-time face detection using webcam  
 - Facial expression classification using a CNN  
@@ -29,7 +29,7 @@ This project is intended for **local execution** and real-time experimentation.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 Facial-Expression-Detection-Real-Time-Recognition/
 │
@@ -42,7 +42,7 @@ Facial-Expression-Detection-Real-Time-Recognition/
 
 ---
 
-### 📄 File Description
+### File Description
 
 - **`webcam_test.py`** – Runs real-time facial expression detection using webcam  
 - **`fer.h5`** – Pretrained CNN model for emotion classification  
@@ -52,6 +52,6 @@ Facial-Expression-Detection-Real-Time-Recognition/
 
 ---
 
-## 🧪 Dataset Used
+## Dataset Used
 
 The CNN model is typically trained on the **FER-2013 dataset**
