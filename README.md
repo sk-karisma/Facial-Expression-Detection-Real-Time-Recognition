@@ -54,4 +54,4 @@ Facial-Expression-Detection-Real-Time-Recognition/
 
 ## Dataset Used
 
-The CNN model is typically trained on the **FER-2013 dataset**
+The CNN model is trained on the **FER-2013 dataset**
